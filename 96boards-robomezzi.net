@@ -1,0 +1,31 @@
+(export (version D)
+  (design
+    (source /home/michael/projects/kicad/projects/96boards-robomezzi/96boards-robomezzi.sch)
+    (date "Sun 27 Sep 2015 01:23:16 PM CDT")
+    (tool "Eeschema (2015-08-07 BZR 6071, Git 6018bb6)-product")
+    (sheet (number 1) (name /) (tstamps /)
+      (title_block
+        (title "96boards Robomezzi")
+        (company "QWERTY Embedded Design")
+        (rev A)
+        (date 2015-09-27)
+        (source 96boards-robomezzi.sch)
+        (comment (number 1) (value ""))
+        (comment (number 2) (value ""))
+        (comment (number 3) (value ""))
+        (comment (number 4) (value "")))))
+  (components
+    (comp (ref LOGO1)
+      (value OPEN_HARDWARE_1)
+      (libsource (lib logo) (part OPEN_HARDWARE_1))
+      (sheetpath (names /) (tstamps /))
+      (tstamp 5608331E)))
+  (libparts
+    (libpart (lib logo) (part OPEN_HARDWARE_1)
+      (fields
+        (field (name Reference) LOGO)
+        (field (name Value) OPEN_HARDWARE_1))))
+  (libraries
+    (library (logical logo)
+      (uri /home/michael/kicad_sources/library-repos/kicad-library/library/logo.lib)))
+  (nets))
