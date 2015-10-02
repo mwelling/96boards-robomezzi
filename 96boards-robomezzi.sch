@@ -244,29 +244,10 @@ Text GLabel 1700 7200 0    39   Output ~ 0
 5V
 Text Notes 1600 2200 0    39   ~ 0
 BATTERY CONNECTOR
-$Comp
-L MPU-9150 U?
-U 1 1 560E0B0A
-P 5100 5950
-F 0 "U?" H 5100 6900 60  0000 C CNN
-F 1 "MPU-9150" H 5100 5000 60  0000 C CNN
-F 2 "" H 4600 6025 60  0000 C CNN
-F 3 "" H 4600 6025 60  0000 C CNN
-	1    5100 5950
-	1    0    0    -1  
-$EndComp
 Text GLabel 3750 5550 0    39   Input ~ 0
 1V8
 Text GLabel 3750 5150 0    39   Input ~ 0
 3V3
-NoConn ~ 4400 6050
-NoConn ~ 4400 6150
-NoConn ~ 4400 6250
-NoConn ~ 4400 6350
-NoConn ~ 4400 6450
-NoConn ~ 4400 6550
-NoConn ~ 4400 6650
-NoConn ~ 4400 6750
 $Comp
 L GND #PWR?
 U 1 1 560E136F
@@ -386,51 +367,21 @@ Wire Wire Line
 	1900 7200 1700 7200
 Wire Wire Line
 	1900 7100 1700 7100
-Wire Wire Line
-	4400 5150 3750 5150
-Wire Wire Line
-	4400 5250 4300 5250
-Wire Wire Line
-	4300 5250 4300 5150
-Connection ~ 4300 5150
-Wire Wire Line
-	4400 5550 3750 5550
-Wire Wire Line
-	5850 6550 6000 6550
-Wire Wire Line
-	6000 6550 6000 6900
-Wire Wire Line
-	5850 6650 6000 6650
-Connection ~ 6000 6650
-Wire Wire Line
-	5850 6750 6000 6750
-Connection ~ 6000 6750
-Text GLabel 6150 5150 2    39   Input ~ 0
+Text GLabel 6475 5150 2    39   Input ~ 0
 96_I2C0_SCL
-Text GLabel 6150 5250 2    39   BiDi ~ 0
+Text GLabel 6475 5250 2    39   BiDi ~ 0
 96_I2C_SDA
-Wire Wire Line
-	5850 5150 6150 5150
-Wire Wire Line
-	6150 5250 5850 5250
 $Comp
 L GND #PWR?
 U 1 1 560E17DB
-P 4200 6000
-F 0 "#PWR?" H 4200 5750 50  0001 C CNN
-F 1 "GND" H 4200 5850 50  0000 C CNN
-F 2 "" H 4200 6000 60  0000 C CNN
-F 3 "" H 4200 6000 60  0000 C CNN
-	1    4200 6000
+P 4075 6400
+F 0 "#PWR?" H 4075 6150 50  0001 C CNN
+F 1 "GND" H 4075 6250 50  0000 C CNN
+F 2 "" H 4075 6400 60  0000 C CNN
+F 3 "" H 4075 6400 60  0000 C CNN
+	1    4075 6400
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	4400 5750 4200 5750
-Wire Wire Line
-	4200 5750 4200 6000
-Wire Wire Line
-	4400 5850 4200 5850
-Connection ~ 4200 5850
 Text GLabel 2575 4825 2    39   Input ~ 0
 PWR_BTN
 Text GLabel 2575 4525 2    39   Input ~ 0
@@ -441,4 +392,32 @@ Wire Wire Line
 	2100 4825 2575 4825
 Text Notes 5175 4825 2    39   ~ 0
 9DOF
+$Comp
+L MPU-9250 U?
+U 1 1 560E13B8
+P 5100 5950
+F 0 "U?" H 5100 6900 60  0000 C CNN
+F 1 "MPU-9250" H 5100 5000 60  0000 C CNN
+F 2 "" H 4600 6025 60  0000 C CNN
+F 3 "" H 4600 6025 60  0000 C CNN
+	1    5100 5950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4400 6250 4075 6250
+Wire Wire Line
+	4075 6250 4075 6400
+Wire Wire Line
+	5850 6750 6000 6750
+Wire Wire Line
+	6000 6750 6000 6900
+Wire Wire Line
+	4400 5150 3750 5150
+Wire Wire Line
+	4400 5550 3750 5550
+Wire Wire Line
+	4400 6050 4325 6050
+Wire Wire Line
+	4325 6050 4325 5550
+Connection ~ 4325 5550
 $EndSCHEMATC
