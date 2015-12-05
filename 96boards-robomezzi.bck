@@ -1,8 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP PF
-D Resistor
-K R DEV
+D Polyfuse
+K PF
 $ENDCMP
 #
 $CMP R
