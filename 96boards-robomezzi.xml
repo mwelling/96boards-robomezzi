@@ -1,0 +1,1934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/michael/projects/96boards/pcbs/96boards-robomezzi/96boards-robomezzi.sch</source>
+    <date>Sun 20 Dec 2015 02:24:23 AM CST</date>
+    <tool>Eeschema (2015-11-11 BZR 6310)-product</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>96boards Robomezzi</title>
+        <company>QWERTY Embedded Design</company>
+        <rev>A</rev>
+        <date>2015-09-27</date>
+        <source>96boards-robomezzi.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="LOGO1">
+      <value>OPEN_HARDWARE_1</value>
+      <footprint>Symbols:Symbol_OSHW-Logo_SilkScreen</footprint>
+      <libsource lib="logo" part="OPEN_HARDWARE_1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5608331E</tstamp>
+    </comp>
+    <comp ref="SRV9">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5609DDE9</tstamp>
+    </comp>
+    <comp ref="SRV10">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5609DE0C</tstamp>
+    </comp>
+    <comp ref="SRV11">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5609DE97</tstamp>
+    </comp>
+    <comp ref="SRV12">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5609DEE0</tstamp>
+    </comp>
+    <comp ref="SRV13">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5609DF9C</tstamp>
+    </comp>
+    <comp ref="SRV14">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5609DFFB</tstamp>
+    </comp>
+    <comp ref="SRV15">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5609E04E</tstamp>
+    </comp>
+    <comp ref="SRV16">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5609E095</tstamp>
+    </comp>
+    <comp ref="HDR1">
+      <value>DRH40</value>
+      <footprint>96boards-robomezzi:dualrow2x20_2mm</footprint>
+      <libsource lib="96boards-robomezzi" part="DRH40"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>560A0B0F</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value>MPU-9250</value>
+      <footprint>Housings_DFN_QFN:QFN-24-1EP_3x3mm_Pitch0.4mm</footprint>
+      <libsource lib="96boards-robomezzi" part="MPU-9250"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>560E13B8</tstamp>
+    </comp>
+    <comp ref="SRV1">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56161E41</tstamp>
+    </comp>
+    <comp ref="SRV2">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56161E47</tstamp>
+    </comp>
+    <comp ref="SRV3">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56161E4D</tstamp>
+    </comp>
+    <comp ref="SRV4">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56161E53</tstamp>
+    </comp>
+    <comp ref="SRV5">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56161E59</tstamp>
+    </comp>
+    <comp ref="SRV6">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56161E5F</tstamp>
+    </comp>
+    <comp ref="SRV7">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56161E65</tstamp>
+    </comp>
+    <comp ref="SRV8">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56161E6B</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>PCA9685</value>
+      <footprint>Housings_SSOP:TSSOP-28_4.4x9.7mm_Pitch0.65mm</footprint>
+      <libsource lib="96boards-robomezzi" part="PCA9685"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>561622E3</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>220</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>564598F3</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>220</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5648283E</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>220</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>564828A4</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>220</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56482909</tstamp>
+    </comp>
+    <comp ref="R19">
+      <value>220</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56482975</tstamp>
+    </comp>
+    <comp ref="R20">
+      <value>220</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>564829E8</tstamp>
+    </comp>
+    <comp ref="R21">
+      <value>220</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56482A56</tstamp>
+    </comp>
+    <comp ref="R22">
+      <value>220</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56482AC7</tstamp>
+    </comp>
+    <comp ref="R23">
+      <value>220</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56482B43</tstamp>
+    </comp>
+    <comp ref="R24">
+      <value>220</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56482C00</tstamp>
+    </comp>
+    <comp ref="R25">
+      <value>220</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56482C7A</tstamp>
+    </comp>
+    <comp ref="R26">
+      <value>220</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56482CFB</tstamp>
+    </comp>
+    <comp ref="R27">
+      <value>220</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56482D7F</tstamp>
+    </comp>
+    <comp ref="R28">
+      <value>220</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56482E02</tstamp>
+    </comp>
+    <comp ref="R29">
+      <value>220</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56482E88</tstamp>
+    </comp>
+    <comp ref="R30">
+      <value>220</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56482F1D</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>FT230X</value>
+      <footprint>Housings_SSOP:SSOP-16_3.9x4.9mm_Pitch0.635mm</footprint>
+      <libsource lib="96boards-robomezzi" part="FT230X"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56491F71</tstamp>
+    </comp>
+    <comp ref="P1">
+      <value>USB_OTG</value>
+      <footprint>Connect:USB_Micro-B</footprint>
+      <libsource lib="conn" part="USB_OTG"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56492B35</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>27</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>564930B9</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>27</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56493376</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>.1uF</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56494B26</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>47pF</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56496185</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>47pF</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>564962E0</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>.1uF</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56498A8E</tstamp>
+    </comp>
+    <comp ref="FB1">
+      <value>FILTER</value>
+      <footprint>Capacitors_SMD:C_0805_HandSoldering</footprint>
+      <libsource lib="device" part="FILTER"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>564997AC</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>4.7uF</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56499D64</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>.1uF</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5649C85D</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>.1uF</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56498C9E</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>.1uF</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>564A00DB</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>.1uF</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>564A1F85</tstamp>
+    </comp>
+    <comp ref="C14">
+      <value>.1uF</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>564A2581</tstamp>
+    </comp>
+    <comp ref="U7">
+      <value>ADS1015</value>
+      <footprint>Housings_SSOP:MSOP-10_3x3mm_Pitch0.5mm</footprint>
+      <libsource lib="96boards-robomezzi" part="ADS1015"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565A4BE1</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>.1uF</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565A563F</tstamp>
+    </comp>
+    <comp ref="AIN1">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565A8A36</tstamp>
+    </comp>
+    <comp ref="AIN2">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565A8CBB</tstamp>
+    </comp>
+    <comp ref="AIN3">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565A8DA3</tstamp>
+    </comp>
+    <comp ref="AIN4">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565A8F3F</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>10K</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565B8143</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>ZENER</value>
+      <footprint>Diodes_SMD:SMB_Standard</footprint>
+      <libsource lib="device" part="ZENER"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565BD205</tstamp>
+    </comp>
+    <comp ref="U8">
+      <value>TXS0108EPWR</value>
+      <footprint>Housings_SSOP:TSSOP-20_4.4x6.5mm_Pitch0.65mm</footprint>
+      <libsource lib="96boards-robomezzi" part="TXS0108EPWR"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565BFECB</tstamp>
+    </comp>
+    <comp ref="R35">
+      <value>10K</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565C267B</tstamp>
+    </comp>
+    <comp ref="C16">
+      <value>.1uF</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565C6872</tstamp>
+    </comp>
+    <comp ref="C17">
+      <value>.1uF</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565C69C2</tstamp>
+    </comp>
+    <comp ref="HDR2">
+      <value>SRH4</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x04</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH4"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565DAD84</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>BSS138</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23</footprint>
+      <libsource lib="transistors" part="BSS138"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565DCFA8</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>10K</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565DD961</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>LM2596S-ADJ</value>
+      <footprint>TO_SOT_Packages_SMD:TO-263-5Lead</footprint>
+      <libsource lib="dc-dc" part="LM2596S-ADJ"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565E3329</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>D_Schottky_Small</value>
+      <footprint>Diodes_SMD:SMA_Standard</footprint>
+      <libsource lib="device" part="D_Schottky_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565E3AE0</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>470 uF</value>
+      <footprint>Capacitors_SMD:c_elec_8x10.5</footprint>
+      <libsource lib="device" part="CP1_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565E4298</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>220 uF</value>
+      <footprint>Capacitors_SMD:c_elec_8x10.5</footprint>
+      <libsource lib="device" part="CP1_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565E4710</tstamp>
+    </comp>
+    <comp ref="L1">
+      <value>33 uH</value>
+      <footprint>Choke_SMD:Choke_SMD_12x12mm_h8mm</footprint>
+      <libsource lib="device" part="INDUCTOR_SMALL"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565E5027</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>1K 1%</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565E5EDD</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>3.87K</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565E6314</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>PCA9306</value>
+      <footprint>Housings_SSOP:TSSOP-8_4.4x3mm_Pitch0.65mm</footprint>
+      <libsource lib="96boards-robomezzi" part="PCA9306"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565BD178</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>PCA9306</value>
+      <footprint>Housings_SSOP:TSSOP-8_4.4x3mm_Pitch0.65mm</footprint>
+      <libsource lib="96boards-robomezzi" part="PCA9306"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565BD291</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>.1uF</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565C032D</tstamp>
+    </comp>
+    <comp ref="C15">
+      <value>.1uF</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565C0426</tstamp>
+    </comp>
+    <comp ref="R31">
+      <value>200K</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565C1531</tstamp>
+    </comp>
+    <comp ref="R32">
+      <value>200K</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565C1FE8</tstamp>
+    </comp>
+    <comp ref="R34">
+      <value>10K</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565C5182</tstamp>
+    </comp>
+    <comp ref="R33">
+      <value>10K</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565C5FDB</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>10K</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565C6D9D</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>10K</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565C7185</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>10K</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565C8A1E</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>10K</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565C8A24</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>10K</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565C8B1C</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>10K</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565C8B22</tstamp>
+    </comp>
+    <comp ref="Q2">
+      <value>BSS138</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23</footprint>
+      <libsource lib="transistors" part="BSS138"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565CC20C</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>10K</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565CC214</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>10K</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565D7A75</tstamp>
+    </comp>
+    <comp ref="PF2">
+      <value>PF</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="96boards-robomezzi" part="PF"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565BF60A</tstamp>
+    </comp>
+    <comp ref="PF1">
+      <value>PF</value>
+      <footprint>Resistors_SMD:R_2816_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="PF"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>565C2062</tstamp>
+    </comp>
+    <comp ref="CN1">
+      <value>PHOENIX3</value>
+      <footprint>Terminal_Blocks:TerminalBlock_Pheonix_MKDS1.5-3pol</footprint>
+      <libsource lib="96boards-robomezzi" part="PHOENIX3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5663267A</tstamp>
+    </comp>
+    <comp ref="JB2">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>566345EB</tstamp>
+    </comp>
+    <comp ref="JB4">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5663547D</tstamp>
+    </comp>
+    <comp ref="GPIO1">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56648CB5</tstamp>
+    </comp>
+    <comp ref="GPIO2">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56648CBB</tstamp>
+    </comp>
+    <comp ref="GPIO3">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56648CC1</tstamp>
+    </comp>
+    <comp ref="GPIO4">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56648CC7</tstamp>
+    </comp>
+    <comp ref="GPIO5">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56648CCD</tstamp>
+    </comp>
+    <comp ref="GPIO6">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56648CD3</tstamp>
+    </comp>
+    <comp ref="GPIO7">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56648CD9</tstamp>
+    </comp>
+    <comp ref="GPIO8">
+      <value>SRH3</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x03</footprint>
+      <libsource lib="96boards-robomezzi" part="SRH3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56648CDF</tstamp>
+    </comp>
+    <comp ref="R36">
+      <value>10K</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56655F6E</tstamp>
+    </comp>
+    <comp ref="R37">
+      <value>220</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5667B970</tstamp>
+    </comp>
+    <comp ref="R38">
+      <value>220</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <libsource lib="96boards-robomezzi" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5667C36A</tstamp>
+    </comp>
+    <comp ref="C19">
+      <value>10uF</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56684124</tstamp>
+    </comp>
+    <comp ref="C18">
+      <value>10uF</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56684AFE</tstamp>
+    </comp>
+    <comp ref="U9">
+      <value>MCP1700T-1802E</value>
+      <footprint>SOT-23</footprint>
+      <libsource lib="96boards-robomezzi" part="MCP1700T-1802E"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5668A6B7</tstamp>
+    </comp>
+    <comp ref="C21">
+      <value>10uF</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56697D79</tstamp>
+    </comp>
+    <comp ref="C20">
+      <value>10uF</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56697D87</tstamp>
+    </comp>
+    <comp ref="U10">
+      <value>MCP1700T-3302E</value>
+      <footprint>SOT-23</footprint>
+      <libsource lib="96boards-robomezzi" part="MCP1700T-1802E"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>56697D95</tstamp>
+    </comp>
+    <comp ref="PF3">
+      <value>PF</value>
+      <footprint>Resistors_SMD:R_1206</footprint>
+      <libsource lib="96boards-robomezzi" part="PF"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>566E5462</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="96boards-robomezzi" part="ADS1015">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ADS1015</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ADDR" type="input"/>
+        <pin num="2" name="ALERT/RDY" type="input"/>
+        <pin num="3" name="GND" type="input"/>
+        <pin num="4" name="AIN0" type="input"/>
+        <pin num="5" name="AIN1" type="input"/>
+        <pin num="6" name="AIN2" type="input"/>
+        <pin num="7" name="AIN3" type="input"/>
+        <pin num="8" name="VDD" type="input"/>
+        <pin num="9" name="SDA" type="input"/>
+        <pin num="10" name="SCL" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="transistors" part="BSS138">
+      <description>50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23</description>
+      <docs>http://www.fairchildsemi.com/ds/BS/BSS138.pdf</docs>
+      <footprints>
+        <fp>SOT-23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BSS138</field>
+        <field name="Footprint">SOT-23</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="CP1_Small">
+      <description>Polarised capacitor</description>
+      <footprints>
+        <fp>CP*</fp>
+        <fp>Elko*</fp>
+        <fp>TantalC*</fp>
+        <fp>C*elec</fp>
+        <fp>c_elec*</fp>
+        <fp>SMD*_Pol</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP1_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="C_Small">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="96boards-robomezzi" part="DRH40">
+      <fields>
+        <field name="Reference">HDR</field>
+        <field name="Value">DRH40</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+        <pin num="3" name="~" type="input"/>
+        <pin num="4" name="~" type="input"/>
+        <pin num="5" name="~" type="input"/>
+        <pin num="6" name="~" type="input"/>
+        <pin num="7" name="~" type="input"/>
+        <pin num="8" name="~" type="input"/>
+        <pin num="9" name="~" type="input"/>
+        <pin num="10" name="~" type="input"/>
+        <pin num="11" name="~" type="input"/>
+        <pin num="12" name="~" type="input"/>
+        <pin num="13" name="~" type="input"/>
+        <pin num="14" name="~" type="input"/>
+        <pin num="15" name="~" type="input"/>
+        <pin num="16" name="~" type="input"/>
+        <pin num="17" name="~" type="input"/>
+        <pin num="18" name="~" type="input"/>
+        <pin num="19" name="~" type="input"/>
+        <pin num="20" name="~" type="input"/>
+        <pin num="21" name="~" type="input"/>
+        <pin num="22" name="~" type="input"/>
+        <pin num="23" name="~" type="input"/>
+        <pin num="24" name="~" type="input"/>
+        <pin num="25" name="~" type="input"/>
+        <pin num="26" name="~" type="input"/>
+        <pin num="27" name="~" type="input"/>
+        <pin num="28" name="~" type="input"/>
+        <pin num="29" name="~" type="input"/>
+        <pin num="30" name="~" type="input"/>
+        <pin num="31" name="~" type="input"/>
+        <pin num="32" name="~" type="input"/>
+        <pin num="33" name="~" type="input"/>
+        <pin num="34" name="~" type="input"/>
+        <pin num="35" name="~" type="input"/>
+        <pin num="36" name="~" type="input"/>
+        <pin num="37" name="~" type="input"/>
+        <pin num="38" name="~" type="input"/>
+        <pin num="39" name="~" type="input"/>
+        <pin num="40" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="D_Schottky_Small">
+      <description>Diode Schottky</description>
+      <footprints>
+        <fp>Diode_*</fp>
+        <fp>D-Pak_TO252AA</fp>
+        <fp>*SingleDiode</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>*_Diode_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="FILTER">
+      <description>Filtre EMI</description>
+      <fields>
+        <field name="Reference">FB</field>
+        <field name="Value">FILTER</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="96boards-robomezzi" part="FT230X">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">FT230X</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TXD" type="input"/>
+        <pin num="2" name="RTS#" type="input"/>
+        <pin num="3" name="VCCIO" type="input"/>
+        <pin num="4" name="RXD" type="input"/>
+        <pin num="5" name="GND" type="input"/>
+        <pin num="6" name="CTS#" type="input"/>
+        <pin num="7" name="CBUS2" type="input"/>
+        <pin num="8" name="USBDP" type="input"/>
+        <pin num="9" name="USBDM" type="input"/>
+        <pin num="10" name="3V3OUT" type="input"/>
+        <pin num="11" name="RESET#" type="input"/>
+        <pin num="12" name="VCC" type="input"/>
+        <pin num="13" name="GND" type="input"/>
+        <pin num="14" name="CBUS1" type="input"/>
+        <pin num="15" name="CBUS0" type="input"/>
+        <pin num="16" name="CBUS3" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="INDUCTOR_SMALL">
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">INDUCTOR_SMALL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+        <pin num="2" name="2" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="dc-dc" part="LM2596S-12">
+      <aliases>
+        <alias>LM2596S-5</alias>
+        <alias>LM2596S-3.3</alias>
+        <alias>LM2596S-ADJ</alias>
+      </aliases>
+      <description>TO-263, 12V 3A Step-Down VR</description>
+      <docs>http://www.ti.com/lit/ds/symlink/lm2576.pdf</docs>
+      <footprints>
+        <fp>TO-263-5*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM2596S-12</field>
+        <field name="Footprint">TO-263-5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="power_in"/>
+        <pin num="2" name="OUT" type="output"/>
+        <pin num="3" name="GND" type="power_in"/>
+        <pin num="4" name="FB" type="input"/>
+        <pin num="5" name="~ON~/OFF" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="96boards-robomezzi" part="MCP1700T-1802E">
+      <footprints>
+        <fp>SOT23</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MCP1700T-1802E</field>
+        <field name="Footprint">SOT-23</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="96boards-robomezzi" part="MPU-9250">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MPU-9250</field>
+      </fields>
+      <pins>
+        <pin num="1" name="RESV(VDDIO)" type="input"/>
+        <pin num="2" name="NC" type="input"/>
+        <pin num="3" name="NC" type="input"/>
+        <pin num="4" name="NC" type="input"/>
+        <pin num="5" name="NC" type="input"/>
+        <pin num="6" name="NC" type="input"/>
+        <pin num="7" name="AUX_CL" type="input"/>
+        <pin num="8" name="VDDIO" type="input"/>
+        <pin num="9" name="AD0/SDO" type="input"/>
+        <pin num="10" name="REGOUT" type="input"/>
+        <pin num="11" name="FSYNC" type="input"/>
+        <pin num="12" name="INT" type="input"/>
+        <pin num="13" name="VDD" type="input"/>
+        <pin num="14" name="NC" type="input"/>
+        <pin num="15" name="NC" type="input"/>
+        <pin num="16" name="NC" type="input"/>
+        <pin num="17" name="NC" type="input"/>
+        <pin num="18" name="GND" type="input"/>
+        <pin num="19" name="RESV(NC)" type="input"/>
+        <pin num="20" name="RESV(GND)" type="input"/>
+        <pin num="21" name="AUX_DA" type="input"/>
+        <pin num="22" name="nCS" type="input"/>
+        <pin num="23" name="SCL/SCLK" type="input"/>
+        <pin num="24" name="SDA/SDI" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="logo" part="OPEN_HARDWARE_1">
+      <fields>
+        <field name="Reference">LOGO</field>
+        <field name="Value">OPEN_HARDWARE_1</field>
+      </fields>
+    </libpart>
+    <libpart lib="96boards-robomezzi" part="PCA9306">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PCA9306</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="VREF1" type="input"/>
+        <pin num="3" name="SCL1" type="input"/>
+        <pin num="4" name="SDA1" type="input"/>
+        <pin num="5" name="SDA2" type="input"/>
+        <pin num="6" name="SCL2" type="input"/>
+        <pin num="7" name="VREF2" type="input"/>
+        <pin num="8" name="EN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="96boards-robomezzi" part="PCA9685">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PCA9685</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A0" type="input"/>
+        <pin num="2" name="A1" type="input"/>
+        <pin num="3" name="A2" type="input"/>
+        <pin num="4" name="A3" type="input"/>
+        <pin num="5" name="A4" type="input"/>
+        <pin num="6" name="LED0" type="input"/>
+        <pin num="7" name="LED1" type="input"/>
+        <pin num="8" name="LED2" type="input"/>
+        <pin num="9" name="LED3" type="input"/>
+        <pin num="10" name="LED4" type="input"/>
+        <pin num="11" name="LED5" type="input"/>
+        <pin num="12" name="LED6" type="input"/>
+        <pin num="13" name="LED7" type="input"/>
+        <pin num="14" name="VSS" type="input"/>
+        <pin num="15" name="LED8" type="input"/>
+        <pin num="16" name="LED9" type="input"/>
+        <pin num="17" name="LED10" type="input"/>
+        <pin num="18" name="LED11" type="input"/>
+        <pin num="19" name="LED12" type="input"/>
+        <pin num="20" name="LED13" type="input"/>
+        <pin num="21" name="LED14" type="input"/>
+        <pin num="22" name="LED15" type="input"/>
+        <pin num="23" name="nOE" type="input"/>
+        <pin num="24" name="A5" type="input"/>
+        <pin num="25" name="EXTCLK" type="input"/>
+        <pin num="26" name="SCL" type="input"/>
+        <pin num="27" name="SDA" type="input"/>
+        <pin num="28" name="VDD" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="96boards-robomezzi" part="PF">
+      <description>Polyfuse</description>
+      <fields>
+        <field name="Reference">PF</field>
+        <field name="Value">PF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="96boards-robomezzi" part="PHOENIX3">
+      <fields>
+        <field name="Reference">CN</field>
+        <field name="Value">PHOENIX3</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+        <pin num="3" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="96boards-robomezzi" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="96boards-robomezzi" part="SRH3">
+      <fields>
+        <field name="Reference">HDR</field>
+        <field name="Value">SRH3</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+        <pin num="3" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="96boards-robomezzi" part="SRH4">
+      <fields>
+        <field name="Reference">HDR</field>
+        <field name="Value">SRH4</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+        <pin num="3" name="~" type="input"/>
+        <pin num="4" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="96boards-robomezzi" part="TXS0108EPWR">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TXS0108EPWR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A1" type="input"/>
+        <pin num="2" name="VCCA" type="input"/>
+        <pin num="3" name="A2" type="input"/>
+        <pin num="4" name="A3" type="input"/>
+        <pin num="5" name="A4" type="input"/>
+        <pin num="6" name="A5" type="input"/>
+        <pin num="7" name="A6" type="input"/>
+        <pin num="8" name="A7" type="input"/>
+        <pin num="9" name="A8" type="input"/>
+        <pin num="10" name="OE" type="input"/>
+        <pin num="11" name="GND" type="input"/>
+        <pin num="12" name="B8" type="input"/>
+        <pin num="13" name="B7" type="input"/>
+        <pin num="14" name="B6" type="input"/>
+        <pin num="15" name="B5" type="input"/>
+        <pin num="16" name="B4" type="input"/>
+        <pin num="17" name="B3" type="input"/>
+        <pin num="18" name="B2" type="input"/>
+        <pin num="19" name="VCCB" type="input"/>
+        <pin num="20" name="B1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="USB_OTG">
+      <description>micro/mini connector</description>
+      <footprints>
+        <fp>USB*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">USB_OTG</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_out"/>
+        <pin num="2" name="D-" type="passive"/>
+        <pin num="3" name="D+" type="passive"/>
+        <pin num="4" name="ID" type="power_in"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="shield" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="ZENER">
+      <description>Diode zener</description>
+      <footprints>
+        <fp>D?</fp>
+        <fp>SO*</fp>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">ZENER</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="logo">
+      <uri>/usr/local/share/kicad/library/logo.lib</uri>
+    </library>
+    <library logical="dc-dc">
+      <uri>/usr/local/share/kicad/library/dc-dc.lib</uri>
+    </library>
+    <library logical="device">
+      <uri>/usr/local/share/kicad/library/device.lib</uri>
+    </library>
+    <library logical="transistors">
+      <uri>/usr/local/share/kicad/library/transistors.lib</uri>
+    </library>
+    <library logical="conn">
+      <uri>/usr/local/share/kicad/library/conn.lib</uri>
+    </library>
+    <library logical="96boards-robomezzi">
+      <uri>/home/michael/projects/96boards/pcbs/96boards-robomezzi/96boards-robomezzi.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1"/>
+      <node ref="R5" pin="2"/>
+      <node ref="P1" pin="2"/>
+    </net>
+    <net code="2" name="Net-(R5-Pad1)">
+      <node ref="U2" pin="9"/>
+      <node ref="R5" pin="1"/>
+    </net>
+    <net code="3" name="Net-(R4-Pad1)">
+      <node ref="U2" pin="8"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="4" name="SPI0_CSN">
+      <node ref="U6" pin="22"/>
+      <node ref="HDR1" pin="12"/>
+    </net>
+    <net code="5" name="SPI0_MISO">
+      <node ref="U6" pin="9"/>
+      <node ref="HDR1" pin="10"/>
+    </net>
+    <net code="6" name="SPI0_MOSI">
+      <node ref="U6" pin="24"/>
+      <node ref="HDR1" pin="14"/>
+    </net>
+    <net code="7" name="SPI0_SCLK">
+      <node ref="U6" pin="23"/>
+      <node ref="HDR1" pin="8"/>
+    </net>
+    <net code="8" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1"/>
+      <node ref="R4" pin="2"/>
+      <node ref="P1" pin="3"/>
+    </net>
+    <net code="9" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1"/>
+      <node ref="FB1" pin="1"/>
+      <node ref="U2" pin="12"/>
+    </net>
+    <net code="10" name="Net-(R22-Pad2)">
+      <node ref="R22" pin="2"/>
+      <node ref="U3" pin="13"/>
+    </net>
+    <net code="11" name="Net-(R30-Pad2)">
+      <node ref="U3" pin="22"/>
+      <node ref="R30" pin="2"/>
+    </net>
+    <net code="12" name="Net-(R29-Pad2)">
+      <node ref="U3" pin="21"/>
+      <node ref="R29" pin="2"/>
+    </net>
+    <net code="13" name="Net-(R28-Pad2)">
+      <node ref="R28" pin="2"/>
+      <node ref="U3" pin="20"/>
+    </net>
+    <net code="14" name="Net-(R27-Pad2)">
+      <node ref="R27" pin="2"/>
+      <node ref="U3" pin="19"/>
+    </net>
+    <net code="15" name="Net-(R26-Pad2)">
+      <node ref="R26" pin="2"/>
+      <node ref="U3" pin="18"/>
+    </net>
+    <net code="16" name="Net-(R25-Pad2)">
+      <node ref="U3" pin="17"/>
+      <node ref="R25" pin="2"/>
+    </net>
+    <net code="17" name="Net-(R24-Pad2)">
+      <node ref="U3" pin="16"/>
+      <node ref="R24" pin="2"/>
+    </net>
+    <net code="18" name="Net-(R23-Pad2)">
+      <node ref="U3" pin="15"/>
+      <node ref="R23" pin="2"/>
+    </net>
+    <net code="19" name="SERVO16">
+      <node ref="R30" pin="1"/>
+      <node ref="SRV16" pin="1"/>
+    </net>
+    <net code="20" name="Net-(R21-Pad2)">
+      <node ref="U3" pin="12"/>
+      <node ref="R21" pin="2"/>
+    </net>
+    <net code="21" name="Net-(R20-Pad2)">
+      <node ref="U3" pin="11"/>
+      <node ref="R20" pin="2"/>
+    </net>
+    <net code="22" name="Net-(R19-Pad2)">
+      <node ref="R19" pin="2"/>
+      <node ref="U3" pin="10"/>
+    </net>
+    <net code="23" name="Net-(R18-Pad2)">
+      <node ref="U3" pin="9"/>
+      <node ref="R18" pin="2"/>
+    </net>
+    <net code="24" name="Net-(R17-Pad2)">
+      <node ref="U3" pin="8"/>
+      <node ref="R17" pin="2"/>
+    </net>
+    <net code="25" name="Net-(R16-Pad2)">
+      <node ref="U3" pin="7"/>
+      <node ref="R16" pin="2"/>
+    </net>
+    <net code="26" name="Net-(R15-Pad2)">
+      <node ref="U3" pin="6"/>
+      <node ref="R15" pin="2"/>
+    </net>
+    <net code="27" name="SERVO7">
+      <node ref="SRV7" pin="1"/>
+      <node ref="R21" pin="1"/>
+    </net>
+    <net code="28" name="SERVO1">
+      <node ref="R15" pin="1"/>
+      <node ref="SRV1" pin="1"/>
+    </net>
+    <net code="29" name="SERVO2">
+      <node ref="R16" pin="1"/>
+      <node ref="SRV2" pin="1"/>
+    </net>
+    <net code="30" name="SERVO3">
+      <node ref="SRV3" pin="1"/>
+      <node ref="R17" pin="1"/>
+    </net>
+    <net code="31" name="SERVO4">
+      <node ref="SRV4" pin="1"/>
+      <node ref="R18" pin="1"/>
+    </net>
+    <net code="32" name="SERVO5">
+      <node ref="R19" pin="1"/>
+      <node ref="SRV5" pin="1"/>
+    </net>
+    <net code="33" name="SERVO6">
+      <node ref="SRV6" pin="1"/>
+      <node ref="R20" pin="1"/>
+    </net>
+    <net code="34" name="SERVO8">
+      <node ref="R22" pin="1"/>
+      <node ref="SRV8" pin="1"/>
+    </net>
+    <net code="35" name="SERVO9">
+      <node ref="R23" pin="1"/>
+      <node ref="SRV9" pin="1"/>
+    </net>
+    <net code="36" name="SERVO10">
+      <node ref="R24" pin="1"/>
+      <node ref="SRV10" pin="1"/>
+    </net>
+    <net code="37" name="SERVO11">
+      <node ref="R25" pin="1"/>
+      <node ref="SRV11" pin="1"/>
+    </net>
+    <net code="38" name="SERVO12">
+      <node ref="SRV12" pin="1"/>
+      <node ref="R26" pin="1"/>
+    </net>
+    <net code="39" name="SERVO13">
+      <node ref="SRV13" pin="1"/>
+      <node ref="R27" pin="1"/>
+    </net>
+    <net code="40" name="SERVO14">
+      <node ref="R28" pin="1"/>
+      <node ref="SRV14" pin="1"/>
+    </net>
+    <net code="41" name="SERVO15">
+      <node ref="SRV15" pin="1"/>
+      <node ref="R29" pin="1"/>
+    </net>
+    <net code="42" name="GND">
+      <node ref="SRV9" pin="3"/>
+      <node ref="SRV10" pin="3"/>
+      <node ref="GPIO8" pin="3"/>
+      <node ref="SRV11" pin="3"/>
+      <node ref="SRV16" pin="3"/>
+      <node ref="GPIO6" pin="3"/>
+      <node ref="GPIO7" pin="3"/>
+      <node ref="HDR1" pin="2"/>
+      <node ref="HDR1" pin="1"/>
+      <node ref="SRV12" pin="3"/>
+      <node ref="GPIO5" pin="3"/>
+      <node ref="HDR1" pin="40"/>
+      <node ref="SRV13" pin="3"/>
+      <node ref="SRV14" pin="3"/>
+      <node ref="U3" pin="25"/>
+      <node ref="U3" pin="5"/>
+      <node ref="U3" pin="4"/>
+      <node ref="U3" pin="3"/>
+      <node ref="U3" pin="2"/>
+      <node ref="U3" pin="1"/>
+      <node ref="U3" pin="24"/>
+      <node ref="U3" pin="14"/>
+      <node ref="C19" pin="2"/>
+      <node ref="P1" pin="6"/>
+      <node ref="P1" pin="5"/>
+      <node ref="C18" pin="2"/>
+      <node ref="U9" pin="1"/>
+      <node ref="GPIO1" pin="3"/>
+      <node ref="GPIO2" pin="3"/>
+      <node ref="GPIO3" pin="3"/>
+      <node ref="HDR1" pin="39"/>
+      <node ref="U2" pin="13"/>
+      <node ref="U2" pin="5"/>
+      <node ref="C21" pin="2"/>
+      <node ref="GPIO4" pin="3"/>
+      <node ref="C20" pin="2"/>
+      <node ref="U10" pin="1"/>
+      <node ref="C11" pin="2"/>
+      <node ref="C4" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="C7" pin="2"/>
+      <node ref="C10" pin="2"/>
+      <node ref="SRV15" pin="3"/>
+      <node ref="U7" pin="1"/>
+      <node ref="C14" pin="2"/>
+      <node ref="AIN4" pin="3"/>
+      <node ref="AIN3" pin="3"/>
+      <node ref="AIN2" pin="3"/>
+      <node ref="AIN1" pin="3"/>
+      <node ref="C2" pin="2"/>
+      <node ref="U7" pin="3"/>
+      <node ref="D1" pin="2"/>
+      <node ref="U8" pin="11"/>
+      <node ref="C12" pin="2"/>
+      <node ref="U6" pin="20"/>
+      <node ref="C5" pin="2"/>
+      <node ref="HDR2" pin="4"/>
+      <node ref="D2" pin="2"/>
+      <node ref="SRV2" pin="3"/>
+      <node ref="SRV1" pin="3"/>
+      <node ref="U6" pin="18"/>
+      <node ref="SRV8" pin="3"/>
+      <node ref="SRV7" pin="3"/>
+      <node ref="SRV6" pin="3"/>
+      <node ref="SRV5" pin="3"/>
+      <node ref="SRV4" pin="3"/>
+      <node ref="SRV3" pin="3"/>
+      <node ref="U5" pin="1"/>
+      <node ref="R8" pin="2"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="U4" pin="1"/>
+      <node ref="C13" pin="2"/>
+      <node ref="C9" pin="2"/>
+      <node ref="C17" pin="2"/>
+      <node ref="CN1" pin="3"/>
+      <node ref="U1" pin="5"/>
+      <node ref="U1" pin="3"/>
+      <node ref="C16" pin="2"/>
+      <node ref="C15" pin="2"/>
+      <node ref="C8" pin="2"/>
+    </net>
+    <net code="43" name="AIN2">
+      <node ref="AIN2" pin="1"/>
+      <node ref="U7" pin="5"/>
+    </net>
+    <net code="44" name="Net-(AIN1-Pad2)">
+      <node ref="PF3" pin="1"/>
+      <node ref="AIN4" pin="2"/>
+      <node ref="AIN3" pin="2"/>
+      <node ref="AIN2" pin="2"/>
+      <node ref="AIN1" pin="2"/>
+    </net>
+    <net code="45" name="AIN1">
+      <node ref="U7" pin="4"/>
+      <node ref="AIN1" pin="1"/>
+    </net>
+    <net code="46" name="AIN3">
+      <node ref="AIN3" pin="1"/>
+      <node ref="U7" pin="6"/>
+    </net>
+    <net code="47" name="AIN4">
+      <node ref="U7" pin="7"/>
+      <node ref="AIN4" pin="1"/>
+    </net>
+    <net code="48" name="I2C0_SDA">
+      <node ref="U4" pin="5"/>
+      <node ref="U7" pin="9"/>
+      <node ref="R13" pin="2"/>
+      <node ref="U3" pin="27"/>
+    </net>
+    <net code="49" name="Net-(C13-Pad1)">
+      <node ref="U6" pin="10"/>
+      <node ref="C13" pin="1"/>
+    </net>
+    <net code="50" name="1V8U">
+      <node ref="C19" pin="1"/>
+      <node ref="R3" pin="2"/>
+      <node ref="U2" pin="3"/>
+      <node ref="U9" pin="2"/>
+    </net>
+    <net code="51" name="Net-(CN1-Pad1)">
+      <node ref="CN1" pin="1"/>
+      <node ref="PF1" pin="2"/>
+    </net>
+    <net code="52" name="5V">
+      <node ref="R32" pin="2"/>
+      <node ref="R14" pin="1"/>
+      <node ref="R13" pin="1"/>
+      <node ref="PF2" pin="2"/>
+      <node ref="U3" pin="28"/>
+      <node ref="HDR1" pin="37"/>
+      <node ref="C20" pin="1"/>
+      <node ref="R36" pin="1"/>
+      <node ref="R31" pin="2"/>
+      <node ref="U10" pin="3"/>
+      <node ref="PF3" pin="2"/>
+      <node ref="C16" pin="1"/>
+      <node ref="R12" pin="1"/>
+      <node ref="C11" pin="1"/>
+      <node ref="U8" pin="19"/>
+      <node ref="C12" pin="1"/>
+      <node ref="U7" pin="8"/>
+    </net>
+    <net code="53" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1"/>
+      <node ref="U2" pin="11"/>
+    </net>
+    <net code="54" name="SERVO_NOE">
+      <node ref="R36" pin="2"/>
+      <node ref="U3" pin="23"/>
+      <node ref="Q2" pin="3"/>
+    </net>
+    <net code="55" name="Net-(HDR1-Pad34)">
+      <node ref="HDR1" pin="34"/>
+      <node ref="R11" pin="2"/>
+      <node ref="Q2" pin="2"/>
+    </net>
+    <net code="56" name="VSERVOE">
+      <node ref="JB2" pin="3"/>
+      <node ref="JB4" pin="3"/>
+      <node ref="CN1" pin="2"/>
+    </net>
+    <net code="57" name="VSERVOB2">
+      <node ref="SRV10" pin="2"/>
+      <node ref="SRV14" pin="2"/>
+      <node ref="SRV9" pin="2"/>
+      <node ref="SRV13" pin="2"/>
+      <node ref="SRV12" pin="2"/>
+      <node ref="SRV16" pin="2"/>
+      <node ref="SRV15" pin="2"/>
+      <node ref="SRV11" pin="2"/>
+      <node ref="JB4" pin="2"/>
+    </net>
+    <net code="58" name="VSERVOI">
+      <node ref="JB2" pin="1"/>
+      <node ref="JB4" pin="1"/>
+      <node ref="C6" pin="1"/>
+      <node ref="R9" pin="2"/>
+      <node ref="L1" pin="2"/>
+    </net>
+    <net code="59" name="VSERVOB1">
+      <node ref="SRV6" pin="2"/>
+      <node ref="SRV7" pin="2"/>
+      <node ref="JB2" pin="2"/>
+      <node ref="SRV8" pin="2"/>
+      <node ref="SRV1" pin="2"/>
+      <node ref="SRV2" pin="2"/>
+      <node ref="SRV3" pin="2"/>
+      <node ref="SRV5" pin="2"/>
+      <node ref="SRV4" pin="2"/>
+    </net>
+    <net code="60" name="96_UART1_RX">
+      <node ref="U2" pin="1"/>
+      <node ref="HDR1" pin="13"/>
+    </net>
+    <net code="61" name="96_UART1_TX">
+      <node ref="HDR1" pin="11"/>
+      <node ref="U2" pin="4"/>
+    </net>
+    <net code="62" name="96_UART0_RX">
+      <node ref="HDR1" pin="7"/>
+    </net>
+    <net code="63" name="96_UART0_TX">
+      <node ref="HDR1" pin="5"/>
+    </net>
+    <net code="64" name="5V_OUT">
+      <node ref="GPIO3" pin="2"/>
+      <node ref="R33" pin="1"/>
+      <node ref="GPIO8" pin="2"/>
+      <node ref="GPIO4" pin="2"/>
+      <node ref="GPIO5" pin="2"/>
+      <node ref="GPIO2" pin="2"/>
+      <node ref="GPIO6" pin="2"/>
+      <node ref="GPIO7" pin="2"/>
+      <node ref="HDR2" pin="1"/>
+      <node ref="R34" pin="1"/>
+      <node ref="GPIO1" pin="2"/>
+      <node ref="PF2" pin="1"/>
+    </net>
+    <net code="65" name="GPIO8_5V">
+      <node ref="U8" pin="20"/>
+      <node ref="GPIO8" pin="1"/>
+    </net>
+    <net code="66" name="GPIO7_5V">
+      <node ref="GPIO7" pin="1"/>
+      <node ref="U8" pin="18"/>
+    </net>
+    <net code="67" name="GPIO6_5V">
+      <node ref="GPIO6" pin="1"/>
+      <node ref="U8" pin="17"/>
+    </net>
+    <net code="68" name="I2C1_SDA">
+      <node ref="HDR2" pin="3"/>
+      <node ref="U5" pin="5"/>
+      <node ref="R34" pin="2"/>
+    </net>
+    <net code="69" name="I2C1_SCL">
+      <node ref="U5" pin="6"/>
+      <node ref="R33" pin="2"/>
+      <node ref="HDR2" pin="2"/>
+    </net>
+    <net code="70" name="GPIO5_5V">
+      <node ref="GPIO5" pin="1"/>
+      <node ref="U8" pin="16"/>
+    </net>
+    <net code="71" name="3P3U">
+      <node ref="U9" pin="3"/>
+      <node ref="U2" pin="10"/>
+      <node ref="C18" pin="1"/>
+      <node ref="C5" pin="1"/>
+    </net>
+    <net code="72" name="3V3">
+      <node ref="C9" pin="1"/>
+      <node ref="U10" pin="2"/>
+      <node ref="C21" pin="1"/>
+      <node ref="U6" pin="13"/>
+    </net>
+    <net code="73" name="RST_BTN">
+      <node ref="R38" pin="2"/>
+      <node ref="HDR1" pin="6"/>
+    </net>
+    <net code="74" name="Net-(R38-Pad1)">
+      <node ref="R38" pin="1"/>
+      <node ref="U2" pin="16"/>
+    </net>
+    <net code="75" name="Net-(R37-Pad1)">
+      <node ref="U2" pin="7"/>
+      <node ref="R37" pin="1"/>
+    </net>
+    <net code="76" name="PWR_BTN">
+      <node ref="HDR1" pin="4"/>
+      <node ref="R37" pin="2"/>
+    </net>
+    <net code="77" name="GPIO1">
+      <node ref="U8" pin="9"/>
+      <node ref="HDR1" pin="23"/>
+    </net>
+    <net code="78" name="GPIO2">
+      <node ref="U8" pin="8"/>
+      <node ref="HDR1" pin="24"/>
+    </net>
+    <net code="79" name="GPIO1_5V">
+      <node ref="GPIO1" pin="1"/>
+      <node ref="U8" pin="12"/>
+    </net>
+    <net code="80" name="GPIO2_5V">
+      <node ref="GPIO2" pin="1"/>
+      <node ref="U8" pin="13"/>
+    </net>
+    <net code="81" name="GPIO8">
+      <node ref="HDR1" pin="30"/>
+      <node ref="U8" pin="1"/>
+    </net>
+    <net code="82" name="GPIO7">
+      <node ref="HDR1" pin="29"/>
+      <node ref="U8" pin="3"/>
+    </net>
+    <net code="83" name="Net-(HDR1-Pad32)">
+      <node ref="R10" pin="2"/>
+      <node ref="Q1" pin="2"/>
+      <node ref="HDR1" pin="32"/>
+    </net>
+    <net code="84" name="VBAT">
+      <node ref="D1" pin="1"/>
+      <node ref="HDR1" pin="38"/>
+      <node ref="C1" pin="1"/>
+      <node ref="HDR1" pin="36"/>
+      <node ref="U1" pin="1"/>
+      <node ref="PF1" pin="1"/>
+    </net>
+    <net code="85" name="MPU_INT">
+      <node ref="HDR1" pin="33"/>
+      <node ref="U6" pin="12"/>
+    </net>
+    <net code="86" name="MPU_FSYNC">
+      <node ref="U6" pin="11"/>
+      <node ref="HDR1" pin="31"/>
+    </net>
+    <net code="87" name="Net-(R35-Pad2)">
+      <node ref="U8" pin="10"/>
+      <node ref="R35" pin="2"/>
+    </net>
+    <net code="88" name="GPIO3">
+      <node ref="U8" pin="7"/>
+      <node ref="HDR1" pin="25"/>
+    </net>
+    <net code="89" name="GPIO4">
+      <node ref="U8" pin="6"/>
+      <node ref="HDR1" pin="26"/>
+    </net>
+    <net code="90" name="GPIO5">
+      <node ref="HDR1" pin="27"/>
+      <node ref="U8" pin="5"/>
+    </net>
+    <net code="91" name="GPIO6">
+      <node ref="HDR1" pin="28"/>
+      <node ref="U8" pin="4"/>
+    </net>
+    <net code="92" name="ADC_RDY">
+      <node ref="Q1" pin="3"/>
+      <node ref="U7" pin="2"/>
+      <node ref="R12" pin="2"/>
+    </net>
+    <net code="93" name="GPIO3_5V">
+      <node ref="GPIO3" pin="1"/>
+      <node ref="U8" pin="14"/>
+    </net>
+    <net code="94" name="GPIO4_5V">
+      <node ref="GPIO4" pin="1"/>
+      <node ref="U8" pin="15"/>
+    </net>
+    <net code="95" name="96_I2C1_SDA">
+      <node ref="HDR1" pin="21"/>
+      <node ref="R7" pin="2"/>
+      <node ref="U5" pin="4"/>
+    </net>
+    <net code="96" name="96_I2C1_SCL">
+      <node ref="HDR1" pin="19"/>
+      <node ref="U5" pin="3"/>
+      <node ref="R6" pin="2"/>
+    </net>
+    <net code="97" name="96_I2C0_SDA">
+      <node ref="R2" pin="2"/>
+      <node ref="HDR1" pin="17"/>
+      <node ref="U4" pin="4"/>
+    </net>
+    <net code="98" name="96_I2C0_SCL">
+      <node ref="HDR1" pin="15"/>
+      <node ref="U4" pin="3"/>
+      <node ref="R1" pin="2"/>
+    </net>
+    <net code="99" name="I2C0_SCL">
+      <node ref="U7" pin="10"/>
+      <node ref="R14" pin="2"/>
+      <node ref="U4" pin="6"/>
+      <node ref="U3" pin="26"/>
+    </net>
+    <net code="100" name="Net-(C14-Pad1)">
+      <node ref="R31" pin="1"/>
+      <node ref="U4" pin="8"/>
+      <node ref="C14" pin="1"/>
+      <node ref="U4" pin="7"/>
+    </net>
+    <net code="101" name="1V8">
+      <node ref="C10" pin="1"/>
+      <node ref="C8" pin="1"/>
+      <node ref="R11" pin="1"/>
+      <node ref="C17" pin="1"/>
+      <node ref="R35" pin="1"/>
+      <node ref="HDR1" pin="35"/>
+      <node ref="U8" pin="2"/>
+      <node ref="U6" pin="1"/>
+      <node ref="R7" pin="1"/>
+      <node ref="U4" pin="2"/>
+      <node ref="U6" pin="8"/>
+      <node ref="U5" pin="2"/>
+      <node ref="R10" pin="1"/>
+      <node ref="Q2" pin="1"/>
+      <node ref="Q1" pin="1"/>
+      <node ref="R6" pin="1"/>
+      <node ref="R1" pin="1"/>
+      <node ref="R2" pin="1"/>
+      <node ref="C7" pin="1"/>
+    </net>
+    <net code="102" name="Net-(R8-Pad1)">
+      <node ref="R9" pin="1"/>
+      <node ref="R8" pin="1"/>
+      <node ref="U1" pin="4"/>
+    </net>
+    <net code="103" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1"/>
+      <node ref="U1" pin="2"/>
+      <node ref="L1" pin="1"/>
+    </net>
+    <net code="104" name="Net-(C15-Pad1)">
+      <node ref="U5" pin="7"/>
+      <node ref="R32" pin="1"/>
+      <node ref="C15" pin="1"/>
+      <node ref="U5" pin="8"/>
+    </net>
+    <net code="105" name="Net-(U2-Pad15)">
+      <node ref="U2" pin="15"/>
+    </net>
+    <net code="106" name="Net-(U2-Pad14)">
+      <node ref="U2" pin="14"/>
+    </net>
+    <net code="107" name="Net-(FB1-Pad2)">
+      <node ref="P1" pin="1"/>
+      <node ref="FB1" pin="2"/>
+    </net>
+    <net code="108" name="Net-(U2-Pad6)">
+      <node ref="U2" pin="6"/>
+    </net>
+    <net code="109" name="Net-(U2-Pad2)">
+      <node ref="U2" pin="2"/>
+    </net>
+    <net code="110" name="Net-(P1-Pad4)">
+      <node ref="P1" pin="4"/>
+    </net>
+    <net code="111" name="Net-(U6-Pad16)">
+      <node ref="U6" pin="16"/>
+    </net>
+    <net code="112" name="Net-(U6-Pad17)">
+      <node ref="U6" pin="17"/>
+    </net>
+    <net code="113" name="Net-(U6-Pad15)">
+      <node ref="U6" pin="15"/>
+    </net>
+    <net code="114" name="Net-(U6-Pad14)">
+      <node ref="U6" pin="14"/>
+    </net>
+    <net code="115" name="Net-(U6-Pad6)">
+      <node ref="U6" pin="6"/>
+    </net>
+    <net code="116" name="Net-(U6-Pad5)">
+      <node ref="U6" pin="5"/>
+    </net>
+    <net code="117" name="Net-(U6-Pad4)">
+      <node ref="U6" pin="4"/>
+    </net>
+    <net code="118" name="Net-(U6-Pad3)">
+      <node ref="U6" pin="3"/>
+    </net>
+    <net code="119" name="Net-(U6-Pad2)">
+      <node ref="U6" pin="2"/>
+    </net>
+    <net code="120" name="Net-(U6-Pad19)">
+      <node ref="U6" pin="19"/>
+    </net>
+    <net code="121" name="Net-(HDR1-Pad20)">
+      <node ref="HDR1" pin="20"/>
+    </net>
+    <net code="122" name="Net-(HDR1-Pad22)">
+      <node ref="HDR1" pin="22"/>
+    </net>
+    <net code="123" name="Net-(HDR1-Pad9)">
+      <node ref="HDR1" pin="9"/>
+    </net>
+    <net code="124" name="Net-(HDR1-Pad3)">
+      <node ref="HDR1" pin="3"/>
+    </net>
+    <net code="125" name="Net-(HDR1-Pad16)">
+      <node ref="HDR1" pin="16"/>
+    </net>
+    <net code="126" name="Net-(HDR1-Pad18)">
+      <node ref="HDR1" pin="18"/>
+    </net>
+    <net code="127" name="Net-(U6-Pad21)">
+      <node ref="U6" pin="21"/>
+    </net>
+    <net code="128" name="Net-(U6-Pad7)">
+      <node ref="U6" pin="7"/>
+    </net>
+  </nets>
+</export>
