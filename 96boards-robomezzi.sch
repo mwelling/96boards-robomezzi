@@ -1873,7 +1873,7 @@ U 1 1 565C2062
 P 1550 700
 F 0 "PF1" V 1675 725 50  0000 C CNN
 F 1 "PF" V 1425 725 50  0000 C CNN
-F 2 "Resistors_SMD:R_2816_HandSoldering" V 1480 700 30  0001 C CNN
+F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" V 1480 700 30  0001 C CNN
 F 3 "" H 1550 700 30  0000 C CNN
 	1    1550 700 
 	0    1    1    0   
