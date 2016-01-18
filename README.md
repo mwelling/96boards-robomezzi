@@ -1,7 +1,7 @@
 # 96boards-robomezzi
 
-This repository contains the hardware design file for a robotics mezzanine
-board that plugs into the 96boards CE based products.
+This repository contains the hardware design files for a robotics mezzanine
+board that plugs into 96boards CE based products.
 
 ## Hardware Specs
 
